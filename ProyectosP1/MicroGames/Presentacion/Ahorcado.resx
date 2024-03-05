@@ -1,0 +1,897 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Dat1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 20.25pt, style=Bold</value>
+  </data>
+  <data name="Dat1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 348</value>
+  </data>
+  <data name="Dat1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 32</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Dat1.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="Dat1.Text" xml:space="preserve">
+    <value>00</value>
+  </data>
+  <data name="&gt;&gt;Dat1.Name" xml:space="preserve">
+    <value>Dat1</value>
+  </data>
+  <data name="&gt;&gt;Dat1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Dat1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Dat1.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="Dat2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 20.25pt, style=Bold</value>
+  </data>
+  <data name="Dat2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 348</value>
+  </data>
+  <data name="Dat2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 32</value>
+  </data>
+  <data name="Dat2.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="Dat2.Text" xml:space="preserve">
+    <value>00</value>
+  </data>
+  <data name="&gt;&gt;Dat2.Name" xml:space="preserve">
+    <value>Dat2</value>
+  </data>
+  <data name="&gt;&gt;Dat2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Dat2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Dat2.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="Res.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 20.25pt, style=Bold</value>
+  </data>
+  <data name="Res.Location" type="System.Drawing.Point, System.Drawing">
+    <value>167, 348</value>
+  </data>
+  <data name="Res.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 32</value>
+  </data>
+  <data name="Res.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="Res.Text" xml:space="preserve">
+    <value>000</value>
+  </data>
+  <data name="&gt;&gt;Res.Name" xml:space="preserve">
+    <value>Res</value>
+  </data>
+  <data name="&gt;&gt;Res.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Res.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Res.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 20.25pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>58, 351</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 32</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>*</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 20.25pt, style=Bold</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>131, 351</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 32</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Probar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Probar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Probar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 192</value>
+  </data>
+  <data name="Probar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="Probar.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="Probar.Text" xml:space="preserve">
+    <value>Probar</value>
+  </data>
+  <data name="&gt;&gt;Probar.Name" xml:space="preserve">
+    <value>Probar</value>
+  </data>
+  <data name="&gt;&gt;Probar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Probar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Probar.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="Punp1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Punp1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 15.75pt, style=Bold</value>
+  </data>
+  <data name="Punp1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 64</value>
+  </data>
+  <data name="Punp1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 24</value>
+  </data>
+  <data name="Punp1.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="Punp1.Text" xml:space="preserve">
+    <value>Puntaje</value>
+  </data>
+  <data name="&gt;&gt;Punp1.Name" xml:space="preserve">
+    <value>Punp1</value>
+  </data>
+  <data name="&gt;&gt;Punp1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Punp1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Punp1.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="Puntaje.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Puntaje.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 113</value>
+  </data>
+  <data name="Puntaje.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 29</value>
+  </data>
+  <data name="Puntaje.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;Puntaje.Name" xml:space="preserve">
+    <value>Puntaje</value>
+  </data>
+  <data name="&gt;&gt;Puntaje.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Puntaje.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Puntaje.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="StartGame.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="StartGame.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="StartGame.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 192</value>
+  </data>
+  <data name="StartGame.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 70</value>
+  </data>
+  <data name="StartGame.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="StartGame.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="&gt;&gt;StartGame.Name" xml:space="preserve">
+    <value>StartGame</value>
+  </data>
+  <data name="&gt;&gt;StartGame.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StartGame.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;StartGame.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="BotUno.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotUno.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotUno.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 465</value>
+  </data>
+  <data name="BotUno.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotUno.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="BotUno.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;BotUno.Name" xml:space="preserve">
+    <value>BotUno</value>
+  </data>
+  <data name="&gt;&gt;BotUno.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotUno.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotUno.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="BotDos.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotDos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotDos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>124, 465</value>
+  </data>
+  <data name="BotDos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotDos.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="BotDos.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;BotDos.Name" xml:space="preserve">
+    <value>BotDos</value>
+  </data>
+  <data name="&gt;&gt;BotDos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotDos.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotDos.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="BotTres.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotTres.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotTres.Location" type="System.Drawing.Point, System.Drawing">
+    <value>180, 465</value>
+  </data>
+  <data name="BotTres.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotTres.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="BotTres.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;BotTres.Name" xml:space="preserve">
+    <value>BotTres</value>
+  </data>
+  <data name="&gt;&gt;BotTres.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotTres.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotTres.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="BotCua.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotCua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotCua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 465</value>
+  </data>
+  <data name="BotCua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotCua.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="BotCua.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;BotCua.Name" xml:space="preserve">
+    <value>BotCua</value>
+  </data>
+  <data name="&gt;&gt;BotCua.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotCua.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotCua.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="BotCin.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotCin.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotCin.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 409</value>
+  </data>
+  <data name="BotCin.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotCin.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="BotCin.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;BotCin.Name" xml:space="preserve">
+    <value>BotCin</value>
+  </data>
+  <data name="&gt;&gt;BotCin.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotCin.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotCin.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="BotSeis.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotSeis.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotSeis.Location" type="System.Drawing.Point, System.Drawing">
+    <value>68, 409</value>
+  </data>
+  <data name="BotSeis.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotSeis.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="BotSeis.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;BotSeis.Name" xml:space="preserve">
+    <value>BotSeis</value>
+  </data>
+  <data name="&gt;&gt;BotSeis.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotSeis.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotSeis.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="BotSiete.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotSiete.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotSiete.Location" type="System.Drawing.Point, System.Drawing">
+    <value>124, 409</value>
+  </data>
+  <data name="BotSiete.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotSiete.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="BotSiete.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;BotSiete.Name" xml:space="preserve">
+    <value>BotSiete</value>
+  </data>
+  <data name="&gt;&gt;BotSiete.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotSiete.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotSiete.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="BotOcho.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotOcho.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotOcho.Location" type="System.Drawing.Point, System.Drawing">
+    <value>180, 409</value>
+  </data>
+  <data name="BotOcho.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotOcho.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="BotOcho.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;BotOcho.Name" xml:space="preserve">
+    <value>BotOcho</value>
+  </data>
+  <data name="&gt;&gt;BotOcho.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotOcho.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotOcho.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="BotNueve.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="BotNueve.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="BotNueve.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 409</value>
+  </data>
+  <data name="BotNueve.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="BotNueve.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="BotNueve.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;BotNueve.Name" xml:space="preserve">
+    <value>BotNueve</value>
+  </data>
+  <data name="&gt;&gt;BotNueve.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BotNueve.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BotNueve.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="Botcero.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Botcero.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Botcero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 465</value>
+  </data>
+  <data name="Botcero.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="Botcero.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="Botcero.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Botcero.Name" xml:space="preserve">
+    <value>Botcero</value>
+  </data>
+  <data name="&gt;&gt;Botcero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Botcero.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Botcero.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="Error.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Error.Location" type="System.Drawing.Point, System.Drawing">
+    <value>450, 334</value>
+  </data>
+  <data name="Error.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 29</value>
+  </data>
+  <data name="Error.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="Error.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Error.Name" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="&gt;&gt;Error.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Error.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Error.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Borrar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Borrar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Borrar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>296, 467</value>
+  </data>
+  <data name="Borrar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="Borrar.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="Borrar.Text" xml:space="preserve">
+    <value>&lt;--</value>
+  </data>
+  <data name="&gt;&gt;Borrar.Name" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="&gt;&gt;Borrar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Borrar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Borrar.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>296, 409</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Home.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="Home.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Home.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial, 14.25pt, style=Bold</value>
+  </data>
+  <data name="Home.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="Home.Size" type="System.Drawing.Size, System.Drawing">
+    <value>33, 33</value>
+  </data>
+  <data name="Home.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;Home.Name" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="&gt;&gt;Home.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Home.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Home.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-9, -65</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>379, 433</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 379</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 1</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>88, 379</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 1</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 382</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 1</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>366, 531</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Ahorcado</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Ahorcado</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
