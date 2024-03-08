@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\bin\Debug\net8.0\Area_Perimetro.exe
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\bin\Debug\net8.0\Area_Perimetro.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\bin\Debug\net8.0\Area_Perimetro.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\bin\Debug\net8.0\Area_Perimetro.dll
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\bin\Debug\net8.0\Area_Perimetro.pdb
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.dll
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\refint\Area_Perimetro.dll
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.pdb
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\Area_Perimetro.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\clases martin\Area_Perimetro\obj\Debug\net8.0\ref\Area_Perimetro.dll
