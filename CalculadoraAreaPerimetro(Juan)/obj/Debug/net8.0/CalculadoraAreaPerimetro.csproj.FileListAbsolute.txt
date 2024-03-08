@@ -1,0 +1,14 @@
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\bin\Debug\net8.0\CalculadoraAreaPerimetro.exe
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\bin\Debug\net8.0\CalculadoraAreaPerimetro.deps.json
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\bin\Debug\net8.0\CalculadoraAreaPerimetro.runtimeconfig.json
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\bin\Debug\net8.0\CalculadoraAreaPerimetro.dll
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\bin\Debug\net8.0\CalculadoraAreaPerimetro.pdb
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.AssemblyInfoInputs.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.AssemblyInfo.cs
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.dll
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\refint\CalculadoraAreaPerimetro.dll
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.pdb
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\CalculadoraAreaPerimetro.genruntimeconfig.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\CalculadoraAreaPerimetro\obj\Debug\net8.0\ref\CalculadoraAreaPerimetro.dll

@@ -29,6 +29,7 @@ namespace MicroGames.Presentacion
 
         private void Home_Click(object sender, EventArgs e)
         {
+            //El boton para regresar al seleccionador de proyecto
             Form formulario = new Form1();
             formulario.Show();
             this.Close();
@@ -46,6 +47,7 @@ namespace MicroGames.Presentacion
 
         private void delfin_Click(object sender, EventArgs e)
         {
+            //Elimina el valor mas a la derecha de la lista, si solo hay 1 valor lo cambia por 0
             if (pantalla.TextLength == 1 && valor.TextLength == 1)
             {
                 pantalla.Text = "0";
@@ -61,6 +63,7 @@ namespace MicroGames.Presentacion
 
         private void div_Click(object sender, EventArgs e)
         {
+            //Coloca que la operacion a realizar es una division
             operacion.Text = "/  Div   ";
             if (resoculto.Text == "0")
             {
@@ -79,6 +82,7 @@ namespace MicroGames.Presentacion
 
         private void Dellete_Click(object sender, EventArgs e)
         {
+            //Elimina todo el texto escrito
             pantalla.Text = "0";
             resoculto.Text = "0";
             punto.Enabled = true;
@@ -86,6 +90,8 @@ namespace MicroGames.Presentacion
 
         private void calcular_Click(object sender, EventArgs e)
         {
+            //Llama las variables del simbolo de operacion, del resultado anterior y del res oculto para dar un resultado
+            //Al final los imprime en la pantalla principal
             if (double.TryParse(resoculto.Text, out double d2) && double.TryParse(valor.Text, out double d1))
             {
                 double res = 0;
@@ -104,6 +110,7 @@ namespace MicroGames.Presentacion
                     case '/':
                         if (d2 == 0 || d1 == 0)
                         {
+                            //Si divide entre 0 muestra este huevo de pascua
                             MessageBox.Show("No tienes permitido continuar con tus calculos por atentar contra el orden natural de las cosas. Por favor cierre la aplicacion");
                             punto.Enabled = false;
                             sum.Enabled = false;
@@ -145,6 +152,7 @@ namespace MicroGames.Presentacion
 
         private void punto_Click(object sender, EventArgs e)
         {
+            //Permite Agregar Un Punto, Lo bloquea hasta que se borre todo el resultado anterior
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "0.";
@@ -160,6 +168,7 @@ namespace MicroGames.Presentacion
 
         private void mult_Click(object sender, EventArgs e)
         {
+            //Coloca que la operacion a realizar es una multiplicacion
             operacion.Text = "*  Mul  ";
             if (resoculto.Text == "0")
             {
@@ -177,7 +186,7 @@ namespace MicroGames.Presentacion
         }
 
         private void rest_Click(object sender, EventArgs e)
-        {
+        {//Coloca que la operacion a realizar es una resta
             operacion.Text = "-  Res   ";
 
             if (resoculto.Text == "0")
@@ -196,7 +205,7 @@ namespace MicroGames.Presentacion
         }
 
         private void sum_Click(object sender, EventArgs e)
-        {
+        {//Coloca que la operacion a realizar es una suma
             operacion.Text = "+  Sum  ";
             if (resoculto.Text == "0")
             {
@@ -215,6 +224,7 @@ namespace MicroGames.Presentacion
 
         private void num0_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 0 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "0";
@@ -228,7 +238,7 @@ namespace MicroGames.Presentacion
         }
 
         private void num9_Click(object sender, EventArgs e)
-        {
+        {//Coloca el numero 9 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "9";
@@ -242,7 +252,7 @@ namespace MicroGames.Presentacion
         }
 
         private void num8_Click(object sender, EventArgs e)
-        {
+        {//Coloca el numero 8 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "8";
@@ -257,6 +267,7 @@ namespace MicroGames.Presentacion
 
         private void num7_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 7 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "7";
@@ -271,6 +282,7 @@ namespace MicroGames.Presentacion
 
         private void num6_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 6 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "6";
@@ -285,6 +297,7 @@ namespace MicroGames.Presentacion
 
         private void num5_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 5 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "5";
@@ -299,6 +312,7 @@ namespace MicroGames.Presentacion
 
         private void num4_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 4 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "4";
@@ -313,6 +327,7 @@ namespace MicroGames.Presentacion
 
         private void num3_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 3 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "3";
@@ -327,6 +342,7 @@ namespace MicroGames.Presentacion
 
         private void num2_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 2 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "2";
@@ -341,6 +357,7 @@ namespace MicroGames.Presentacion
 
         private void num1_Click(object sender, EventArgs e)
         {
+            //Coloca el numero 1 al final de la cadena o reemplaza el primero si es 0
             if (pantalla.Text == "0")
             {
                 pantalla.Text = "1";

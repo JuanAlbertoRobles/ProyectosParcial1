@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|c:\\users\\juanr_6zteeru\\onedrive\\escritorio\\gatmauiv2\\actios2\\actios2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|solutionrelative:actios2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\actios2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|solutionrelative:actios2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\actios2\\actios2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|solutionrelative:actios2\\actios2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Computo\\AppData\\Local\\Temp\\.vsdbgsrc\\34fc73a949c8d953e0b07b5a55f7c43c04637307\\MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\actios2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5175F290-41CF-4AE0-AD8E-D74F1CDC6D5F}|ActiOS2\\ActiOS2.csproj|solutionrelative:actios2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ActiOS2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MainPage.xaml.cs",
+              "RelativeToolTip": "ActiOS2\\MainPage.xaml.cs",
+              "ViewState": "AQIAAMwCAAAAAAAAAAAmwNUCAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:48:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ActiOS2\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MauiProgram.cs",
+              "RelativeToolTip": "ActiOS2\\MauiProgram.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:20:02.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActiOS2",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\ActiOS2.csproj",
+              "RelativeDocumentMoniker": "ActiOS2\\ActiOS2.csproj",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\ActiOS2.csproj",
+              "RelativeToolTip": "ActiOS2\\ActiOS2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T00:41:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ActiOS2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\GatMauiV2\\ActiOS2\\ActiOS2\\MainPage.xaml",
+              "RelativeToolTip": "ActiOS2\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-26T23:45:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\Computo\\AppData\\Local\\Temp\\.vsdbgsrc\\34fc73a949c8d953e0b07b5a55f7c43c04637307\\MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Computo\\AppData\\Local\\Temp\\.vsdbgsrc\\34fc73a949c8d953e0b07b5a55f7c43c04637307\\MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\Computo\\AppData\\Local\\Temp\\.vsdbgsrc\\34fc73a949c8d953e0b07b5a55f7c43c04637307\\MainPage.xaml.sg.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Computo\\AppData\\Local\\Temp\\.vsdbgsrc\\34fc73a949c8d953e0b07b5a55f7c43c04637307\\MainPage.xaml.sg.cs [Solo lectura]",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:42:22.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

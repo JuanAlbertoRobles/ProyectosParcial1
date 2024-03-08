@@ -16,6 +16,9 @@ namespace MicroGames.Presentacion
         {
             InitializeComponent();
         }
+
+        //se define una variable 
+
         double resultado = 0;
 
         private void Home_Click(object sender, EventArgs e)
@@ -25,29 +28,38 @@ namespace MicroGames.Presentacion
             this.Close();
         }
 
+        // Funcion para calcular el resultado de la operacion
         private void button1_Click(object sender, EventArgs e)
         {
+            // Condicion 
             if (double.TryParse(Numero_1.Text, out double n1) && double.TryParse(Numero_2.Text, out double n2))
             {
                 char op = operacion.Text[0];
                 switch (op)
                 {
+
                     case '+':
+                        //suma los valores
                         resultado = n1 + n2;
                         break;
                     case '-':
+                        //resta los valores
                         resultado = n1 - n2;
                         break;
                     case '*':
+                        //multiplica los valores
                         resultado = n1 * n2;
                         break;
                     case '/':
+                        //divide los valores 
                         resultado = n1 / n2;
                         break;
                 }
+                // Mostrar el resultado en el TextBox correspondiente
                 Resultado.Text = resultado.ToString();
 
             }
+            //se pide que ingrese un valor valido
             else
             {
                 MessageBox.Show("Ingrese números válidos en los TextBox.");

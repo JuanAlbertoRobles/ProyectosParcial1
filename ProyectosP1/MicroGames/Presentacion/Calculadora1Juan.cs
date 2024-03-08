@@ -29,6 +29,9 @@ namespace MicroGames.Presentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // Se ingresan los valores de los entry en las variables d1 y d2
+            //Recupera la operacion y con un switch case calcula el resultado
+            //Convierte el resultado a sting para imprimirlo en el campo resultado
             double res = 0;
             if (double.TryParse(dato1.Text, out double d1) && double.TryParse(dato2.Text, out double d2))
             {
@@ -71,6 +74,7 @@ namespace MicroGames.Presentacion
 
         private void Home_Click(object sender, EventArgs e)
         {
+            //El boton para regresar al seleccionador de proyecto
             Form formulario = new Form1();
             formulario.Show();
             this.Close();

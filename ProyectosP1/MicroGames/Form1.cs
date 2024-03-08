@@ -26,6 +26,7 @@ namespace MicroGames
 
         private void GatoExe_Click(object sender, EventArgs e)
         {
+            //El boton para abrir el gato
             Form formulario = new Gato();
             formulario.Show();
             this.Hide();
@@ -33,6 +34,7 @@ namespace MicroGames
 
         private void AhorcadoExe_Click(object sender, EventArgs e)
         {
+            //El boton para abrir el ahorcado
             Form formulario = new Ahorcado();
             formulario.Show();
             this.Hide();
@@ -45,11 +47,13 @@ namespace MicroGames
 
         private void Salir_Click(object sender, EventArgs e)
         {
+            //Boton para salir
             this.Close();
         }
 
         private void CalculadoraBotonesAX_Click(object sender, EventArgs e)
         {
+            //El boton para abrir la calculadora con botones de axel
             Form formulario = new CalcuBotonesAxel();
             formulario.Show();
             this.Hide();
@@ -57,6 +61,7 @@ namespace MicroGames
 
         private void CalculadoraJ_Click(object sender, EventArgs e)
         {
+            //El boton para abrir la calculadora de Juan
             Form formulario = new Calculadora1Juan();
             formulario.Show();
             this.Hide();
@@ -64,6 +69,7 @@ namespace MicroGames
 
         private void CalculadoraAX_Click(object sender, EventArgs e)
         {
+            //El boton para abrir la calculadora de axel
             Form formulario = new Calculadora1Axel();
             formulario.Show();
             this.Hide();
@@ -71,6 +77,7 @@ namespace MicroGames
 
         private void CalculadoraBotonesJ_Click(object sender, EventArgs e)
         {
+            //El boton para abrir la calculadora con botones de Juan
             Form formulario = new CalcuBotonesJuan();
             formulario.Show();
             this.Hide();

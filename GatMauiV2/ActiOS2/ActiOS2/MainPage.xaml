@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActiOS2.MainPage">
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="Black" Offset="0" />
+            <GradientStop Color="#2F2E2E" Offset="1" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,30"
+            Spacing="6" VerticalOptions="Center" HorizontalOptions="Center" >
+            <StackLayout Orientation="Horizontal" Spacing="12">
+                <Label
+                    Text="PuntajeP1 = 0"
+                    x:Name="scorep1" FontSize="Title"
+                    TextColor="White"/>
+                <Label
+                    Text="Turno"
+                    x:Name="Turnlabel" FontSize="Title" Margin="90,0,0,0"
+                    TextColor="White"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="12" >
+                <Label
+                    Text="PuntajeP2 = 0"
+                    x:Name="scorep2" FontSize="Title"
+                    TextColor="White"/>
+                <Image
+                     x:Name="jugadorenjuego"
+                     Source="blacky32.png"
+                     Margin="90,0,0,0"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="6">
+                <Button
+                    x:Name="x1y1"
+                    Clicked="x1y1_Click" 
+                    HorizontalOptions="Start" 
+                    VerticalOptions="Start" 
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x1y2"
+                    VerticalOptions="Start"
+                    HorizontalOptions="Center"
+                    Clicked="x1y2_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x1y3"
+                    VerticalOptions="Start"
+                    HorizontalOptions="End"
+                    Clicked="x1y3_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="6">
+                <Button
+                    x:Name="x2y1"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Start"
+                    Clicked="x2y1_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x2y2"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    Clicked="x2y2_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x2y3"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    Clicked="x2y3_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="6">
+                <Button
+                    x:Name="x3y1"
+                    VerticalOptions="End"
+                    HorizontalOptions="Start"
+                    Clicked="x3y1_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x3y2"
+                    VerticalOptions="End"
+                    HorizontalOptions="Center"
+                    Clicked="x3y2_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+                <Button
+                    x:Name="x3y3"
+                    VerticalOptions="End"
+                    HorizontalOptions="End"
+                    Clicked="x3y3_Click"
+                    BackgroundColor="#000000"
+                    ImageSource = "blacky32.png"/>
+            </StackLayout>
+            <Button
+                x:Name="gato"
+                VerticalOptions="Center"
+                HorizontalOptions="End"
+                WidthRequest="300"
+                HeightRequest="100"
+                Clicked="Reset_Click"
+                BackgroundColor="#3D85F5"
+                ImageSource = "cato.png"
+                Text=" Revancha"
+                CornerRadius="50"
+                IsEnabled="False" FontSize="Medium"/>
+
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -357,6 +357,7 @@
             this.Controls.Add(this.textPant);
             this.Name = "CalcuBotonesAxel";
             this.Text = "CalcuBotonesAxel";
+            this.Load += new System.EventHandler(this.CalcuBotonesAxel_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

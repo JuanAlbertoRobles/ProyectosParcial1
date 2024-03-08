@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|c:\\users\\juanr_6zteeru\\onedrive\\escritorio\\proyectosp1\\microgames\\presentacion\\calcubotonesjuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\calcubotonesjuan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\calculadora1axel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\calculadora1axel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\calcubotonesaxel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\calcubotonesaxel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\presentacion\\calculadora1juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:presentacion\\calculadora1juan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\datos\\conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07400D39-583F-4961-80B2-FF7E6E523EFB}|MicroGames.csproj|solutionrelative:datos\\conector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ahorcado.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Ahorcado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Ahorcado.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Ahorcado.cs",
+              "RelativeToolTip": "Presentacion\\Ahorcado.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAwwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:01:28.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1 (2) (1)\\ProyectosP1 (2)\\ProyectosP1\\MicroGames\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\ProyectosP1 (2) (1)\\ProyectosP1 (2)\\ProyectosP1\\MicroGames\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:57:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalcuBotonesAxel.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\CalcuBotonesAxel.cs",
+              "RelativeDocumentMoniker": "Presentacion\\CalcuBotonesAxel.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\CalcuBotonesAxel.cs",
+              "RelativeToolTip": "Presentacion\\CalcuBotonesAxel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ahorcado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Ahorcado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Ahorcado.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1 (2) (1)\\ProyectosP1 (2)\\ProyectosP1\\MicroGames\\Presentacion\\Ahorcado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\ProyectosP1 (2) (1)\\ProyectosP1 (2)\\ProyectosP1\\MicroGames\\Presentacion\\Ahorcado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:45.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Gato.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Gato.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Gato.cs",
+              "RelativeToolTip": "Presentacion\\Gato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:45.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora1Axel.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Calculadora1Axel.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Calculadora1Axel.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Calculadora1Axel.cs",
+              "RelativeToolTip": "Presentacion\\Calculadora1Axel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:44.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcuBotonesJuan.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\CalcuBotonesJuan.cs",
+              "RelativeDocumentMoniker": "Presentacion\\CalcuBotonesJuan.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\CalcuBotonesJuan.cs",
+              "RelativeToolTip": "Presentacion\\CalcuBotonesJuan.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculadora1Juan.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Calculadora1Juan.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Calculadora1Juan.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Presentacion\\Calculadora1Juan.cs",
+              "RelativeToolTip": "Presentacion\\Calculadora1Juan.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:45.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conector.cs",
+              "DocumentMoniker": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Datos\\Conector.cs",
+              "RelativeDocumentMoniker": "Datos\\Conector.cs",
+              "ToolTip": "C:\\Users\\juanr_6zteeru\\OneDrive\\Escritorio\\ProyectosP1\\MicroGames\\Datos\\Conector.cs",
+              "RelativeToolTip": "Datos\\Conector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:37:45.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

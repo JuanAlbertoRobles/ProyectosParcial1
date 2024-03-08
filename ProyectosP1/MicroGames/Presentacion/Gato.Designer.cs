@@ -299,6 +299,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Gato";
             this.Text = "Gato";
+            this.Load += new System.EventHandler(this.Gato_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Cato)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);

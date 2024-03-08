@@ -50,3 +50,51 @@ C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1\MicroGames\obj\Debug\Micr
 C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Juan.resources
 C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesAxel.resources
 C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Axel.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe.config
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.pdb
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Form1.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Ahorcado.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesAxel.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesJuan.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Axel.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Juan.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Gato.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.exe
+C:\Users\Usuario\Downloads\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.pdb
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe.config
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.pdb
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Form1.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Ahorcado.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesAxel.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesJuan.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Axel.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Juan.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Gato.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.exe
+C:\Users\Usuario\Downloads\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.pdb
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe.config
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.exe
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\bin\Debug\MicroGames.pdb
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.AssemblyReference.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Form1.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Ahorcado.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesAxel.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.CalcuBotonesJuan.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Axel.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Calculadora1Juan.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Presentacion.Gato.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.Properties.Resources.resources
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.GenerateResource.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.csproj.CoreCompileInputs.cache
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.exe
+C:\Users\juanr_6zteeru\OneDrive\Escritorio\ProyectosP1 (2) (1)\ProyectosP1 (2)\ProyectosP1\MicroGames\obj\Debug\MicroGames.pdb
